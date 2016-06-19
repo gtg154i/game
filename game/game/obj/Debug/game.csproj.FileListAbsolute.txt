@@ -1,0 +1,6 @@
+C:\(HP1TB\workspace\csharpworkspace\game\game\obj\Debug\game.csprojResolveAssemblyReference.cache
+C:\(HP1TB\workspace\csharpworkspace\game\game\bin\Debug\game.exe.config
+C:\(HP1TB\workspace\csharpworkspace\game\game\bin\Debug\game.exe
+C:\(HP1TB\workspace\csharpworkspace\game\game\bin\Debug\game.pdb
+C:\(HP1TB\workspace\csharpworkspace\game\game\obj\Debug\game.exe
+C:\(HP1TB\workspace\csharpworkspace\game\game\obj\Debug\game.pdb
